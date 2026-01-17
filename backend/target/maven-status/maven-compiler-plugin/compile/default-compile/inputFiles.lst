@@ -1,0 +1,11 @@
+C:\dev\CopilotBackendTest\src\main\java\com\copilot\login\controller\AuthController.java
+C:\dev\CopilotBackendTest\src\main\java\com\copilot\login\security\JwtTokenProvider.java
+C:\dev\CopilotBackendTest\src\main\java\com\copilot\login\repository\UserRepository.java
+C:\dev\CopilotBackendTest\src\main\java\com\copilot\login\dto\LoginResponse.java
+C:\dev\CopilotBackendTest\src\main\java\com\copilot\login\dto\SignupRequest.java
+C:\dev\CopilotBackendTest\src\main\java\com\copilot\login\config\SecurityConfig.java
+C:\dev\CopilotBackendTest\src\main\java\com\copilot\login\dto\LoginRequest.java
+C:\dev\CopilotBackendTest\src\main\java\com\copilot\login\LoginServiceApplication.java
+C:\dev\CopilotBackendTest\src\main\java\com\copilot\login\model\User.java
+C:\dev\CopilotBackendTest\src\main\java\com\copilot\login\service\AuthService.java
+C:\dev\CopilotBackendTest\src\main\java\com\copilot\login\dto\SignupResponse.java

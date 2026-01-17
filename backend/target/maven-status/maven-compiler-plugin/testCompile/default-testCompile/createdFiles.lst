@@ -1,0 +1,5 @@
+com\copilot\login\model\UserTest.class
+com\copilot\login\repository\UserRepositoryTest.class
+com\copilot\login\LoginServiceApplicationTests.class
+com\copilot\login\service\AuthServiceTest.class
+com\copilot\login\security\JwtTokenProviderTest.class
